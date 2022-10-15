@@ -1,1 +1,1 @@
-Access the website [here]()
+Access the website [here](https://react-7-slider.vercel.app/)
